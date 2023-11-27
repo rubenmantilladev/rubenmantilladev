@@ -71,6 +71,33 @@
             alt="bootstrap" width="40" height="40" />
         </a>
       </td>
+    </tr>
+    <tr>
+      <td align="center">
+          HTML5
+      </td>
+      <td align="center">
+          CSS3
+      </td>
+      <td align="center">
+          SCSS
+      </td>
+      <td align="center">
+          JavaScript
+      </td>
+      <td align="center">
+          TypeScript
+      </td>
+      <td align="center">
+        Bootstrap
+      </td>
+    </tr>
+    <tr>
+      <td colspan="6">
+      </td>
+    </tr>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://angular.io" target="_blank" rel="noreferrer">
           <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
@@ -104,24 +131,6 @@
       </td>
     </tr>
     <tr>
-      <td align="center">
-          HTML5
-      </td>
-      <td align="center">
-          CSS3
-      </td>
-      <td align="center">
-          SCSS
-      </td>
-      <td align="center">
-          JavaScript
-      </td>
-      <td align="center">
-          TypeScript
-      </td>
-      <td align="center">
-        Bootstrap
-      </td>
       <td align="center">
           Angular
       </td>
