@@ -96,7 +96,7 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://angular.io" target="_blank" rel="noreferrer">
+        <a href="https://angular.dev" target="_blank" rel="noreferrer">
           <img src="https://www.svgrepo.com/show/353396/angular-icon.svg" alt="angular" with="40" height="40" />
         </a>
       </td>
@@ -147,6 +147,26 @@
         Firebase
       </td>
     </tr>
+    <tr>
+      <td colspan="6"></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://www.svgrepo.com/show/373778/light-pnpm.svg" alt="pnpm" width="40" height="40" />
+      </td>
+      <td align="center">
+        <img src="https://www.svgrepo.com/show/255690/ssd.svg" alt="nvm" width="40" height="40" />
+      </td>
+    </tr>
+    <tr>
+      <td align=center>
+        PNPM
+      </td>
+      <td align=center>
+        NVM
+      </td>
+    </tr>
+    
   </table>
 
 <br/>
