@@ -229,3 +229,8 @@
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=rubenmantilladev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
+
+<br>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
