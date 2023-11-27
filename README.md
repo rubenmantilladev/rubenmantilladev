@@ -236,3 +236,24 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+<br>
+
+<div align="center">
+	<h3><b>😄 Can Connect With Me On</b></h3>
+</div>
+<p align="center">
+	<a href="https://www.linkedin.com/in/ruben-mantilla/" target="_blank">
+  <img align="center" alt="Rubén Mantilla | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+	</a> &nbsp;&nbsp;
+	<a href="https://twitter.com/rubendevelop" target="_blank">
+	  <img align="center" alt="Rubén Mantilla | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+	</a> &nbsp;&nbsp;
+	<a href="https://www.instagram.com/rahul_dhanola/" target="_blank">
+	  <img align="center" alt="Rubén Mantilla | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+	</a> &nbsp;&nbsp;
+	<a href="mailto:rubenmantilla.dev@gmail.com">
+	  <img align="center" alt="Rubén Mantilla | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+	</a> &nbsp;&nbsp;
+<p>
