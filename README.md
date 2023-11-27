@@ -167,6 +167,12 @@
       <td align="center">
         <img src="https://www.svgrepo.com/show/255690/ssd.svg" alt="nvm" width="40" height="40" />
       </td>
+      <td align="center">
+        <img src="https://www.svgrepo.com/show/378837/node.svg" alt="node" width="40" height="40" />
+      </td>
+      <td align="center">
+        <img src="https://www.svgrepo.com/show/349544/ubuntu.svg" alt="ubuntu server" width="40" height="40" />
+      </td>
     </tr>
     <tr>
       <td align=center>
@@ -174,6 +180,12 @@
       </td>
       <td align=center>
         NVM
+      </td>
+      <td align=center>
+        NodeJS
+      </td>
+      <td align=center>
+        Ubuntu Server
       </td>
     </tr>
     
