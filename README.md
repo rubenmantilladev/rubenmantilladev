@@ -92,6 +92,9 @@
       </td>
     </tr>
     <tr>
+      <td colspan="6"></td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://angular.io" target="_blank" rel="noreferrer">
           <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
