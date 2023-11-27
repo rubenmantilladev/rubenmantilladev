@@ -95,12 +95,6 @@
       <td colspan="6">
       </td>
     </tr>
-    </tr>
-    <tr>
-      <td colspan="6">
-      </td>
-    </tr>
-    </tr>
     <tr>
       <td align="center">
         <a href="https://angular.io" target="_blank" rel="noreferrer">
