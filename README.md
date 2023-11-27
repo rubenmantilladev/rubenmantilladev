@@ -91,9 +91,14 @@
         Bootstrap
       </td>
     </tr>
+    <!-- Rows (start) -->
     <tr>
       <td colspan="6"></td>
     </tr>
+    <tr>
+      <td colspan="6"></td>
+    </tr>
+    <!-- Rows (end) -->
     <tr>
       <td align="center">
         <a href="https://angular.dev" target="_blank" rel="noreferrer">
@@ -147,9 +152,14 @@
         Firebase
       </td>
     </tr>
+    <!-- Rows (start) -->
     <tr>
       <td colspan="6"></td>
     </tr>
+    <tr>
+      <td colspan="6"></td>
+    </tr>
+    <!-- Rows (end) -->
     <tr>
       <td align="center">
         <img src="https://www.svgrepo.com/show/373778/light-pnpm.svg" alt="pnpm" width="40" height="40" />
