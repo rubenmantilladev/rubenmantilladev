@@ -48,7 +48,7 @@
       </td>
       <td align="center">
         <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
+          <img src="https://www.svgrepo.com/show/374067/scss2.svg" alt="sass"
             width="40" height="40" />
         </a>
       </td>
@@ -107,7 +107,7 @@
       </td>
       <td align="center">
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+          <img src="https://www.svgrepo.com/show/448221/docker.svg"
             alt="docker" width="40" height="40" />
         </a>
       </td>
