@@ -103,6 +103,73 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td>
+        <p align="center">
+          HTML5
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          CSS3
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          HTML
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          SCSS
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          JavaScript
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          TypeScript
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          Bootstrap
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          Angular
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          Git
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          Docker
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          Figma
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          Postman
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          Firebase
+        </p>
+      </td>
+    </tr>
   </table>
 </p>
 
