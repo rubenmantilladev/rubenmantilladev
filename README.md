@@ -97,7 +97,7 @@
     <tr>
       <td align="center">
         <a href="https://angular.io" target="_blank" rel="noreferrer">
-          <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
+          <img src="https://miro.medium.com/v2/resize:fit:2680/1*jlg3PXZ6PYdUGy40tXybKw.gif" alt="angular" width="40" height="40" />
         </a>
       </td>
       <td align="center">
