@@ -116,11 +116,6 @@
       </td>
       <td>
         <p align="center">
-          HTML
-        </p>
-      </td>
-      <td>
-        <p align="center">
           SCSS
         </p>
       </td>
