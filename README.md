@@ -91,7 +91,8 @@
         Bootstrap
       </td>
     </tr>
-    <tr><td colspan="6"></td></tr>
+  </table>
+  <table align="center">
     <tr>
       <td align="center">
         <a href="https://angular.io" target="_blank" rel="noreferrer">
