@@ -155,7 +155,7 @@
 
 <!--- stats (start) -->
 <div align="center">
-  <table align="center">
+  <table align="center" border="none">
     <tr border="none">
       <td width="50%" align="center">
       <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rubenmantilladev&theme=dark&show_icons=true&count_private=true" />
