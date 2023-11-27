@@ -32,7 +32,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b>
 
-<p align="left">
+<p align="center">
   <table>
     <tr>
       <td align="center">
@@ -41,128 +41,104 @@
             alt="html5" width="40" height="40" />
         </a>
       </td>
-      <td>  
+      <td align="center">
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" />
         </a>
       </td>
-      <td>
+      <td align="center">
         <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
             width="40" height="40" />
         </a>
       </td>
-      <td>
+      <td align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" />
         </a>
       </td>
-      <td>
+      <td align="center">
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" />
         </a>
       </td>
-      <td>
+      <td align="center">
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" />
         </a>
       </td>
-      <td>
+      <td align="center">
         <a href="https://angular.io" target="_blank" rel="noreferrer">
           <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
         </a>
       </td>
-      <td>
+      <td align="center">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
         </a>
       </td>
-      <td>
+      <td align="center">
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
             alt="docker" width="40" height="40" />
         </a>
       </td>
-      <td>
+      <td align="center">
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
         </a>
       </td>
-      <td>
+      <td align="center">
         <a href="https://postman.com" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
         </a>
       </td>
-      <td>
+      <td align="center">
         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
         </a>
       </td>
     </tr>
     <tr>
-      <td>
-        <p align="center">
+      <td align="center">
           HTML5
-        </p>
       </td>
-      <td>
-        <p align="center">
+      <td align="center">
           CSS3
-        </p>
       </td>
-      <td>
-        <p align="center">
+      <td align="center">
           SCSS
-        </p>
       </td>
-      <td>
-        <p align="center">
+      <td align="center">
           JavaScript
-        </p>
       </td>
-      <td>
-        <p align="center">
+      <td align="center">
           TypeScript
-        </p>
       </td>
-      <td>
-        <p align="center">
-          Bootstrap
-        </p>
+      <td align="center">
+        Bootstrap
       </td>
-      <td>
-        <p align="center">
+      <td align="center">
           Angular
-        </p>
       </td>
-      <td>
-        <p align="center">
+      <td align="center">
           Git
-        </p>
       </td>
-      <td>
-        <p align="center">
+      <td align="center">
           Docker
-        </p>
       </td>
-      <td>
-        <p align="center">
+      <td align="center">
           Figma
-        </p>
       </td>
-      <td>
-        <p align="center">
+      <td align="center">
           Postman
-        </p>
       </td>
-      <td>
-        <p align="center">
+      <td align="center">
           Firebase
-        </p>
       </td>
     </tr>
   </table>
