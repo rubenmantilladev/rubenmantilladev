@@ -73,28 +73,25 @@
     </tr>
     <tr>
       <td align="center">
-          HTML5
+        HTML5
       </td>
       <td align="center">
-          CSS3
+        CSS3
       </td>
       <td align="center">
-          SCSS
+        SCSS
       </td>
       <td align="center">
-          JavaScript
+        JavaScript
       </td>
       <td align="center">
-          TypeScript
+        TypeScript
       </td>
       <td align="center">
         Bootstrap
       </td>
     </tr>
-    <tr>
-      <td colspan="6">
-      </td>
-    </tr>
+    <tr><td colspan="6"></td></tr>
     <tr>
       <td align="center">
         <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -130,22 +127,22 @@
     </tr>
     <tr>
       <td align="center">
-          Angular
+        Angular
       </td>
       <td align="center">
-          Git
+        Git
       </td>
       <td align="center">
-          Docker
+        Docker
       </td>
       <td align="center">
-          Figma
+        Figma
       </td>
       <td align="center">
-          Postman
+        Postman
       </td>
       <td align="center">
-          Firebase
+        Firebase
       </td>
     </tr>
   </table>
