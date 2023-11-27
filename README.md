@@ -4,7 +4,6 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=rubenmantilladev&label=Profile%20views&color=0e75b6&style=flat" alt="rubenmantilladev" />
   <img src="https://img.shields.io/github/followers/rubenmantilladev?label=Followers" alt="rubenmantilladev" />
-	</a>
 </p>
 
 <!-- Greeting -->
