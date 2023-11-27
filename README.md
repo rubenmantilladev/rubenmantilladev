@@ -169,7 +169,7 @@
         <img src="https://www.svgrepo.com/show/373778/light-pnpm.svg" alt="pnpm" width="40" height="40" />
       </td>
       <td align="center">
-        <img src="https://www.svgrepo.com/show/255690/ssd.svg" alt="nvm" width="40" height="40" />
+        <img src="https://openjsf.org/wp-content/uploads/sites/84/2023/02/nvm-logo-color-avatar.png" alt="nvm" width="40" height="40" />
       </td>
       <td align="center">
         <img src="https://www.svgrepo.com/show/378837/node.svg" alt="node" width="40" height="40" />
