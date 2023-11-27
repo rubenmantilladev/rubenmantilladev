@@ -250,7 +250,7 @@
 	<a href="https://twitter.com/rubendevelop" target="_blank">
 	  <img align="center" alt="Rubén Mantilla | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
 	</a> &nbsp;&nbsp;
-	<a href="https://www.instagram.com/rahul_dhanola/" target="_blank">
+	<a href="https://www.instagram.com/irvinrmq/" target="_blank">
 	  <img align="center" alt="Rubén Mantilla | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 	</a> &nbsp;&nbsp;
 	<a href="mailto:rubenmantilla.dev@gmail.com">
