@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+Peruvian+frontend+developer..&hearts;++;Self-Taught+Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-- 🌱 I’m currently learning **SQL Server**
+- 🌱 I’m currently learning **MySQL**
 
 - 👨‍💻 All of my projects are available at
 [https://rubenmantilladev.github.io/portfolio/](https://rubenmantilladev.github.io/portfolio/)
