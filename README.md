@@ -8,7 +8,9 @@
 
 <!-- Greeting -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=A+Peruvian+frontend+developer...%F0%9F%92%9D;With+knowledge+in+Angular;Continuous+and+self-taught+learner;Open+source+lover" alt="Typing SVG" />
+	<a href="https://github.com/rubenmantilladev?tab=repositories" target="_blank" rel="noreferrer">
+  	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=A+Peruvian+frontend+developer...%F0%9F%92%9D;With+knowledge+in+Angular;Continuous+and+self-taught+learner;Open+source+lover" alt="Typing SVG" />
+	</a>
 </p>
 
 <!--- snake -->
