@@ -3,6 +3,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+Peruvian+frontend+developer..&hearts;++;Self-Taught+Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=rubenmantilladev&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" />
+</p>
+
+
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <b>About me</b>
 
 
